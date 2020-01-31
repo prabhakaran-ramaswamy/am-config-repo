@@ -50,3 +50,10 @@ http://localhost:8080/am-asset-details/assetdetails
 	"taggedTo":"Prabhakaran Ramaswamy",
 	"status":"tagged"
 }
+
+
+http://localhost:8080/am-managed-asset/managedassets
+
+{ "asset":{"id":1}, "account":{"id":1}}
+
+
